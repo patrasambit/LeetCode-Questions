@@ -22,6 +22,7 @@ public class LongestSubstring {
 
     public static void main(String[] args) {
         String input = "abcabcbb";
+
         System.out.println(lengthOfLongestSubstring(input));  // Output: 3
     }
 }
